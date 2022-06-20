@@ -1,2 +1,2 @@
-# Apredendo-PHP
+# PH
 Um simples projeto de php
